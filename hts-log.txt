@@ -1,0 +1,21 @@
+HTTrack3.49-2 launched on Mon, 17 Sep 2018 18:56:55 at http://actscommunitybaptistchurch.org
+(httrack http://actscommunitybaptistchurch.org )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:08:57	Warning: 	file not stored in cache due to bogus state (broken size, expected 4654586 got 3870585): actscommunitybaptistchurch.org/wp-content/uploads/2017/10/IMG_3223.png
+19:08:57	Warning: 	Retry after error -4 (Incorrect length (3870585 Bytes, 4654586 expected)) at link actscommunitybaptistchurch.org/wp-content/uploads/2017/10/IMG_3223.png (from actscommunitybaptistchurch.org/)
+19:08:57	Warning: 	Moved Permanently for actscommunitybaptistchurch.org/?p=81
+19:08:57	Warning: 	File has moved from actscommunitybaptistchurch.org/?p=81 to http://actscommunitybaptistchurch.org/index.php/our-pastor/
+19:08:57	Warning: 	Moved Permanently for actscommunitybaptistchurch.org/?p=104
+19:08:57	Warning: 	File has moved from actscommunitybaptistchurch.org/?p=104 to http://actscommunitybaptistchurch.org/index.php/ministries/
+19:08:57	Warning: 	Moved Permanently for actscommunitybaptistchurch.org/?p=123
+19:08:57	Warning: 	File has moved from actscommunitybaptistchurch.org/?p=123 to http://actscommunitybaptistchurch.org/index.php/mission-and-vision/
+19:08:57	Warning: 	Moved Permanently for actscommunitybaptistchurch.org/?p=164
+19:08:57	Warning: 	File has moved from actscommunitybaptistchurch.org/?p=164 to http://actscommunitybaptistchurch.org/index.php/give/
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 4 seconds : 72 links scanned, 66 files written (13193101 bytes overall) [12680477 bytes received at 16174 bytes/sec], 901395 bytes transferred using HTTP compression in 35 files, ratio 39%, 4.8 requests per connection
+(No errors, 10 warnings, 0 messages)
